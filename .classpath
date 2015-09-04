@@ -14,6 +14,13 @@
 	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar" sourcepath="C:/eclipse/eclipse/plugins/org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar"/>
 	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/com.ibm.icu_52.1.1.v201501240615.jar" sourcepath="C:/eclipse/eclipse/plugins/com.ibm.icu_52.1.1.v201501240615.jar"/>
 	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/org.eclipse.ui.forms_3.6.100.v20140422-1825.jar" sourcepath="C:/eclipse/eclipse/plugins/org.eclipse.ui.forms_3.6.100.v20140422-1825.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Jackson Beard/Documents/GitHub/SaltyBot/RandomOrg Java API/RandomOrg_ver_1_5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jackson Beard/Documents/GitHub/SaltyBot/lib/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jackson Beard/Documents/GitHub/SaltyBot/lib/commons-lang3-3.4/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/org.eclipse.core.runtime.source_3.10.0.v20140318-2214.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/org.eclipse.core.databinding_1.4.2.v20140729-1044.jar" sourcepath="C:/eclipse/eclipse/plugins/org.eclipse.core.databinding_1.4.2.v20140729-1044.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/org.eclipse.core.databinding.beans_1.2.200.v20140214-0004.jar" sourcepath="C:/eclipse/eclipse/plugins/org.eclipse.core.databinding.beans.source_1.2.200.v20140214-0004.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar" sourcepath="C:/eclipse/eclipse/plugins/org.eclipse.core.databinding.observable.source_1.4.1.v20140210-1835.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/org.eclipse.core.databinding.property_1.4.200.v20140214-0004.jar" sourcepath="C:/eclipse/eclipse/plugins/org.eclipse.core.databinding.property.source_1.4.200.v20140214-0004.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/eclipse/plugins/org.eclipse.jface.databinding_1.6.200.v20140528-1422.jar" sourcepath="C:/eclipse/eclipse/plugins/org.eclipse.jface.databinding.source_1.6.200.v20140528-1422.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

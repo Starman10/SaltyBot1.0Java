@@ -1,0 +1,68 @@
+Aug 31, 2015 11:59:26 PM SaltyBotUI updateLog
+INFO: Salty Bet Bot V1.0 Log Initialized 31_08_15
+Aug 31, 2015 11:59:26 PM SaltyBotUI updateLog
+INFO: Logging object instantiated.
+Sep 01, 2015 12:02:46 AM SaltyBotUI updateLog
+INFO: Starting betting in new thread
+Sep 01, 2015 12:02:46 AM SaltyBotUI updateLog
+INFO: Verifying selections...
+Sep 01, 2015 12:02:46 AM SaltyBotUI updateLog
+INFO: Checking Forced Dimensions
+Sep 01, 2015 12:02:46 AM SaltyBotUI updateLog
+INFO: Forced Dimensions not selected, using alternate constructor
+Sep 01, 2015 12:02:46 AM Coord screenCheck
+INFO: Checking Dimensions
+Sep 01, 2015 12:02:46 AM Coord screenCheck
+INFO: Force Screen Dimensions not checked, auto identifying screen
+Sep 01, 2015 12:02:46 AM SaltyBotUI updateLog
+INFO: waiting 5 seconds before trying to bet
+Sep 01, 2015 12:02:52 AM Betting evalForBetting
+INFO: looking for color: -5225404
+Sep 01, 2015 12:02:52 AM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Sep 01, 2015 12:02:52 AM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Sep 01, 2015 12:02:52 AM Betting evalForBetting
+INFO: Betting not active
+Sep 01, 2015 12:02:52 AM SaltyBotUI updateLog
+INFO: waiting 5 seconds before trying to bet
+Sep 01, 2015 12:02:57 AM Betting evalForBetting
+INFO: looking for color: -5225404
+Sep 01, 2015 12:02:57 AM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Sep 01, 2015 12:02:57 AM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Sep 01, 2015 12:02:57 AM Betting evalForBetting
+INFO: Betting not active
+Sep 01, 2015 12:02:57 AM SaltyBotUI updateLog
+INFO: waiting 5 seconds before trying to bet
+Sep 01, 2015 12:03:03 AM Betting evalForBetting
+INFO: looking for color: -5225404
+Sep 01, 2015 12:03:03 AM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Sep 01, 2015 12:03:03 AM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Sep 01, 2015 12:03:03 AM Betting evalForBetting
+INFO: Betting not active
+Sep 01, 2015 12:03:03 AM SaltyBotUI updateLog
+INFO: waiting 5 seconds before trying to bet
+Sep 01, 2015 12:03:08 AM Betting evalForBetting
+INFO: looking for color: -5225404
+Sep 01, 2015 12:03:08 AM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Sep 01, 2015 12:03:08 AM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Sep 01, 2015 12:03:08 AM Betting evalForBetting
+INFO: Betting not active
+Sep 01, 2015 12:03:08 AM SaltyBotUI updateLog
+INFO: waiting 5 seconds before trying to bet
+Sep 01, 2015 12:03:13 AM Betting evalForBetting
+INFO: looking for color: -5225404
+Sep 01, 2015 12:03:13 AM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Sep 01, 2015 12:03:13 AM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Sep 01, 2015 12:03:13 AM Betting evalForBetting
+INFO: Betting not active
+Sep 01, 2015 12:03:13 AM SaltyBotUI updateLog
+INFO: waiting 5 seconds before trying to bet

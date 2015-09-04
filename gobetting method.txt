@@ -1,0 +1,65 @@
+System.out.println("Verifying selections...");
+				if(styleCombo.getSelectionIndex()!=(-1) && percentCombo.getSelectionIndex() != (-1))
+				{
+					System.out.println("Checking Forced Dimensions");
+					if (btnForceScreenDimensions.getSelection())
+					{
+						try 
+						{
+							userCoord = Coord.screenCheck(btnForceScreenDimensions.getSelection(), Integer.parseInt(txtEnterWidth.getText()), Integer.parseInt(txtEnterHeight.getText()));
+						} 
+						catch (NumberFormatException | IOException | AWTException e1) 
+						{
+							e1.printStackTrace();
+							return;
+						}
+						if (Betting.evalForBetting(userCoord))
+						{
+							System.out.println("betting...");
+							//if()
+						}
+					}
+					else
+					{
+						System.out.println("Forced Dimensions not selected, using alternate constructor");
+						try 
+						{
+							userCoord = Coord.screenCheck(btnForceScreenDimensions.getSelection(), 2, 2);
+						} 
+						catch (NumberFormatException | IOException | AWTException e1) 
+						{
+							e1.printStackTrace();
+							return;
+						}
+						if (Betting.evalForBetting(userCoord))
+						{
+							System.out.println("betting...");
+							if("Random".equals(percentCombo.getText()))
+							{
+								try
+								{
+									Betting.betRandomPercent(userCoord, styleCombo.getText());
+								} 
+								catch (IllegalArgumentException| IOException e1) 
+								{
+									e1.printStackTrace();
+								}
+							}
+							else
+							{
+								try
+								{
+									Betting.bet(userCoord, styleCombo.getText(), percentCombo.getSelectionIndex());
+								} 
+								catch (IllegalArgumentException| IOException e1) 
+								{
+									e1.printStackTrace();
+								}
+							}
+						}
+					}
+				}				
+			else
+				System.out.println("Please Select A Style and percent");
+			}
+		}

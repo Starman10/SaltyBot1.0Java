@@ -1,0 +1,1538 @@
+Apr 18, 2015 12:30:21 PM SaltyBotUI createLog
+INFO: Salty Bet V1.0 Log Initialized 18_04_15
+Apr 18, 2015 12:30:21 PM SaltyBotUI createContents
+INFO: Logging object instantiated.
+Apr 18, 2015 12:30:26 PM SaltyBotUI doBetting
+INFO: Starting betting in new thread
+Apr 18, 2015 12:30:26 PM SaltyBotUI$1doBettingTask run
+INFO: Verifying selections...
+Apr 18, 2015 12:30:26 PM SaltyBotUI$1doBettingTask run
+INFO: Checking Forced Dimensions
+Apr 18, 2015 12:30:26 PM SaltyBotUI$1doBettingTask run
+INFO: Forced Dimensions not selected, using alternate constructor
+Apr 18, 2015 12:30:26 PM Coord screenCheck
+INFO: Checking Dimensions
+Apr 18, 2015 12:30:26 PM Coord screenCheck
+INFO: Force Screen Dimensions not checked, auto identifying screen
+Apr 18, 2015 12:30:28 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:30:33 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:30:33 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:30:33 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:30:33 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:30:33 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:30:39 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:30:39 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:30:39 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:30:39 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:30:39 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:30:44 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:30:44 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:30:44 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:30:44 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:30:44 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:30:50 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:30:50 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:30:50 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:30:50 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:30:50 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:30:55 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:30:55 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:30:55 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:30:55 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:30:55 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:31:01 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:31:01 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:31:01 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:31:01 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:31:01 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:31:07 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:31:07 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:31:07 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:31:07 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:31:07 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:31:12 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:31:12 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:31:12 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:31:12 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:31:12 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:31:18 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:31:18 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:31:18 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:31:18 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:31:18 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:31:23 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:31:23 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:31:23 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:31:23 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:31:23 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:31:29 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:31:29 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:31:29 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-5225404
+Apr 18, 2015 12:31:29 PM Betting evalForBetting
+INFO: Identified betting as active
+Apr 18, 2015 12:31:29 PM SaltyBotUI$1doBettingTask run
+INFO: betting...
+Apr 18, 2015 12:31:29 PM Betting betRandom
+INFO: Deciding which side to bet on...
+Apr 18, 2015 12:31:30 PM Betting betRandom
+INFO: Betting Blue/Right: 10%
+Apr 18, 2015 12:31:30 PM Betting betRight
+INFO: Betting Blue/right: 10%
+Apr 18, 2015 12:31:32 PM SaltyBotUI$1doBettingTask run
+INFO: Waiting 40 seconds before betting again.
+Apr 18, 2015 12:32:12 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:32:18 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:32:18 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:32:18 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:32:18 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:32:18 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:32:23 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:32:23 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:32:23 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:32:23 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:32:23 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:32:29 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:32:29 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:32:29 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:32:29 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:32:29 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:32:34 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:32:34 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:32:34 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:32:34 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:32:34 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:32:40 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:32:40 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:32:40 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:32:40 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:32:40 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:32:45 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:32:45 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:32:45 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:32:45 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:32:45 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:32:51 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:32:51 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:32:51 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:32:51 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:32:51 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:32:57 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:32:57 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:32:57 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:32:57 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:32:57 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:02 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:02 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:02 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:02 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:02 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:08 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:08 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:08 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:08 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:08 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:13 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:13 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:13 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:13 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:13 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:19 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:19 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:19 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:19 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:19 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:24 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:24 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:24 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:24 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:24 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:30 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:30 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:30 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:30 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:30 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:36 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:36 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:36 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:36 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:36 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:41 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:41 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:41 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:41 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:41 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:47 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:47 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:47 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:47 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:47 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:52 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:52 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:52 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:52 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:52 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:33:58 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:33:58 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:33:58 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:33:58 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:33:58 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:03 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:03 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:03 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:03 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:03 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:09 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:09 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:09 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:09 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:09 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:14 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:14 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:14 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:14 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:14 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:20 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:20 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:20 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:20 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:20 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:26 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:26 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:26 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:26 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:26 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:31 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:31 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:31 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:31 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:31 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:37 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:37 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:37 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:37 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:37 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:42 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:42 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:42 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:42 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:42 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:48 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:48 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:48 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:48 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:48 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:53 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:53 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:53 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:53 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:53 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:34:59 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:34:59 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:34:59 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:34:59 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:34:59 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:05 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:05 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:05 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:35:05 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:35:05 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:10 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:10 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:10 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:35:10 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:35:10 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:16 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:16 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:16 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:35:16 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:35:16 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:21 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:21 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:21 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:35:21 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:35:21 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:27 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:27 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:27 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:35:27 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:35:27 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:32 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:32 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:32 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:35:32 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:35:32 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:38 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:38 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:38 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:35:38 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:35:38 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:44 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:44 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:44 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:35:44 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:35:44 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:35:49 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:35:49 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:35:49 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-5225404
+Apr 18, 2015 12:35:49 PM Betting evalForBetting
+INFO: Identified betting as active
+Apr 18, 2015 12:35:49 PM SaltyBotUI$1doBettingTask run
+INFO: betting...
+Apr 18, 2015 12:35:49 PM Betting betRandom
+INFO: Deciding which side to bet on...
+Apr 18, 2015 12:35:50 PM Betting betRandom
+INFO: Betting Blue/Right: 10%
+Apr 18, 2015 12:35:50 PM Betting betRight
+INFO: Betting Blue/right: 10%
+Apr 18, 2015 12:35:53 PM SaltyBotUI$1doBettingTask run
+INFO: Waiting 40 seconds before betting again.
+Apr 18, 2015 12:36:33 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:36:38 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:36:38 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:36:38 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:36:38 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:36:38 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:36:44 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:36:44 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:36:44 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:36:44 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:36:44 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:36:50 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:36:50 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:36:50 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:36:50 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:36:50 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:36:55 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:36:55 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:36:55 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:36:55 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:36:55 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:01 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:01 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:01 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:01 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:01 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:06 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:06 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:06 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:06 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:06 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:12 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:12 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:12 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:12 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:12 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:17 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:17 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:17 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:17 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:17 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:23 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:23 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:23 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:23 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:23 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:29 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:29 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:29 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:29 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:29 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:34 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:34 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:34 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:34 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:34 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:40 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:40 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:40 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:40 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:40 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:45 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:45 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:45 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:45 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:45 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:51 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:51 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:51 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:51 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:51 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:37:56 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:37:56 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:37:56 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:37:56 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:37:56 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:38:02 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:38:02 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:38:02 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:38:02 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:38:02 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:38:07 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:38:07 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:38:07 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:38:07 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:38:07 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:38:13 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:38:13 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:38:13 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:38:13 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:38:13 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:38:19 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:38:19 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:38:19 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:38:19 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:38:19 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:38:24 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:38:24 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:38:24 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-5225404
+Apr 18, 2015 12:38:24 PM Betting evalForBetting
+INFO: Identified betting as active
+Apr 18, 2015 12:38:24 PM SaltyBotUI$1doBettingTask run
+INFO: betting...
+Apr 18, 2015 12:38:24 PM Betting betRandom
+INFO: Deciding which side to bet on...
+Apr 18, 2015 12:38:25 PM Betting betRandom
+INFO: Betting Blue/Right: 10%
+Apr 18, 2015 12:38:25 PM Betting betRight
+INFO: Betting Blue/right: 10%
+Apr 18, 2015 12:38:28 PM SaltyBotUI$1doBettingTask run
+INFO: Waiting 40 seconds before betting again.
+Apr 18, 2015 12:39:08 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:13 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:13 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:13 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:13 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:13 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:19 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:19 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:19 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:19 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:19 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:24 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:24 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:24 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:24 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:24 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:30 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:30 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:30 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:30 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:30 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:35 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:35 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:35 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:35 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:35 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:41 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:41 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:41 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:41 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:41 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:46 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:46 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:46 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:46 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:46 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:52 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:52 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:52 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:52 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:52 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:39:58 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:39:58 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:39:58 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:39:58 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:39:58 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:03 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:03 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:03 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:03 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:03 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:09 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:09 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:09 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:09 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:09 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:14 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:14 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:14 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:14 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:14 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:20 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:20 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:20 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:20 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:20 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:25 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:25 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:25 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:25 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:25 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:31 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:31 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:31 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:31 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:31 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:36 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:36 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:36 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:36 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:36 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:42 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:42 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:42 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:42 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:42 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:48 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:48 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:48 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:48 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:48 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:53 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:53 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:53 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:40:53 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:40:53 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:40:59 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:40:59 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:40:59 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-5225404
+Apr 18, 2015 12:40:59 PM Betting evalForBetting
+INFO: Identified betting as active
+Apr 18, 2015 12:40:59 PM SaltyBotUI$1doBettingTask run
+INFO: betting...
+Apr 18, 2015 12:40:59 PM Betting betRandom
+INFO: Deciding which side to bet on...
+Apr 18, 2015 12:41:00 PM Betting betRandom
+INFO: Betting Blue/Right: 10%
+Apr 18, 2015 12:41:00 PM Betting betRight
+INFO: Betting Blue/right: 10%
+Apr 18, 2015 12:41:02 PM SaltyBotUI$1doBettingTask run
+INFO: Waiting 40 seconds before betting again.
+Apr 18, 2015 12:41:43 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:41:48 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:41:48 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:41:48 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:41:48 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:41:48 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:41:54 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:41:54 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:41:54 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:41:54 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:41:54 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:41:59 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:41:59 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:41:59 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:41:59 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:41:59 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:05 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:05 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:05 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:05 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:05 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:10 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:10 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:10 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:10 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:10 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:16 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:16 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:16 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:16 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:16 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:21 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:21 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:21 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:21 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:21 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:27 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:27 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:27 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:27 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:27 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:33 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:33 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:33 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:33 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:33 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:38 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:38 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:38 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:38 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:38 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:44 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:44 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:44 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:44 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:44 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:49 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:49 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:49 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:49 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:49 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:42:55 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:42:55 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:42:55 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:42:55 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:42:55 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:00 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:00 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:00 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:00 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:00 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:06 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:06 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:06 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:06 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:06 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:12 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:12 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:12 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:12 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:12 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:17 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:17 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:17 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:17 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:17 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:23 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:23 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:23 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:23 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:23 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:28 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:28 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:28 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:28 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:28 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:34 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:34 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:34 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:34 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:34 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:39 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:39 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:39 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:39 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:39 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:45 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:45 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:45 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:45 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:45 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:51 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:51 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:51 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:43:51 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:43:51 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:43:56 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:43:56 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:43:56 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-5225404
+Apr 18, 2015 12:43:56 PM Betting evalForBetting
+INFO: Identified betting as active
+Apr 18, 2015 12:43:56 PM SaltyBotUI$1doBettingTask run
+INFO: betting...
+Apr 18, 2015 12:43:56 PM Betting betRandom
+INFO: Deciding which side to bet on...
+Apr 18, 2015 12:43:57 PM Betting betRandom
+INFO: Betting Red/Left: 10%
+Apr 18, 2015 12:43:57 PM Betting betLeft
+INFO: Betting Red/Left: 10%
+Apr 18, 2015 12:43:59 PM SaltyBotUI$1doBettingTask run
+INFO: Waiting 40 seconds before betting again.
+Apr 18, 2015 12:44:39 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:44:45 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:44:45 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:44:45 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14803426
+Apr 18, 2015 12:44:45 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:44:45 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:44:50 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:44:50 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:44:50 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-7721111
+Apr 18, 2015 12:44:50 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:44:50 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:44:56 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:44:56 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:44:56 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-7721111
+Apr 18, 2015 12:44:56 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:44:56 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:01 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:01 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:01 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:45:01 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:01 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:07 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:07 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:07 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:45:07 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:07 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:12 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:12 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:12 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-7721111
+Apr 18, 2015 12:45:12 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:12 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:18 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:18 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:18 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-9850389
+Apr 18, 2015 12:45:18 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:18 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:23 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:23 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:23 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-9850389
+Apr 18, 2015 12:45:23 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:23 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:29 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:29 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:29 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-9850389
+Apr 18, 2015 12:45:29 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:29 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:34 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:34 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:34 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-9850389
+Apr 18, 2015 12:45:34 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:34 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:39 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:39 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:39 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-9850389
+Apr 18, 2015 12:45:39 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:39 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:45 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:45 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:45 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-9850389
+Apr 18, 2015 12:45:45 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:45 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:50 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:50 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:50 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:45:50 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:50 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:45:56 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:45:56 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:45:56 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:45:56 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:45:56 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:46:01 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:46:01 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:46:01 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:46:01 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:46:01 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:46:06 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:46:06 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:46:06 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:46:06 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:46:06 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:46:12 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:46:12 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:46:12 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:46:12 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:46:12 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:46:17 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:46:17 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:46:17 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:46:17 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:46:17 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:46:23 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:46:23 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:46:23 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-5225404
+Apr 18, 2015 12:46:23 PM Betting evalForBetting
+INFO: Identified betting as active
+Apr 18, 2015 12:46:23 PM SaltyBotUI$1doBettingTask run
+INFO: betting...
+Apr 18, 2015 12:46:23 PM Betting betRandom
+INFO: Deciding which side to bet on...
+Apr 18, 2015 12:46:24 PM Betting betRandom
+INFO: Betting Blue/Right: 10%
+Apr 18, 2015 12:46:24 PM Betting betRight
+INFO: Betting Blue/right: 10%
+Apr 18, 2015 12:46:27 PM SaltyBotUI$1doBettingTask run
+INFO: Waiting 40 seconds before betting again.
+Apr 18, 2015 12:47:07 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:12 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:12 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:12 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:47:12 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:12 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:17 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:17 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:17 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:47:17 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:17 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:23 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:23 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:23 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-1
+Apr 18, 2015 12:47:23 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:23 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:28 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:28 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:28 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:47:28 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:28 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:34 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:34 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:34 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:47:34 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:34 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:40 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:40 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:40 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:47:40 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:40 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:45 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:45 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:45 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:47:45 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:45 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:51 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:51 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:51 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:47:51 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:51 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:47:56 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:47:56 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:47:56 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:47:56 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:47:56 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:48:02 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:48:02 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:48:02 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:48:02 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:48:02 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:48:07 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:48:07 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:48:07 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-14409430
+Apr 18, 2015 12:48:07 PM Betting evalForBetting
+INFO: Betting not active
+Apr 18, 2015 12:48:07 PM SaltyBotUI$1doBettingTask run
+INFO: waiting 5 seconds before trying to bet
+Apr 18, 2015 12:48:09 PM SaltyBotUI$4 widgetSelected
+INFO: Stop Requested, please wait.
+Apr 18, 2015 12:48:09 PM Betting evalForBetting
+INFO: looking for color: -5225404
+Apr 18, 2015 12:48:09 PM Betting evalForBetting
+INFO: X Coord:709 Y Coord:930
+Apr 18, 2015 12:48:09 PM Betting evalForBetting
+INFO: Comparing Colors of Left Competitior Button and actual value-5225404
+Apr 18, 2015 12:48:09 PM Betting evalForBetting
+INFO: Identified betting as active
+Apr 18, 2015 12:48:09 PM SaltyBotUI$1doBettingTask run
+INFO: betting...
+Apr 18, 2015 12:48:09 PM Betting betRandom
+INFO: Deciding which side to bet on...
+Apr 18, 2015 12:48:11 PM Betting betRandom
+INFO: Betting Blue/Right: 10%
+Apr 18, 2015 12:48:11 PM Betting betRight
+INFO: Betting Blue/right: 10%
+Apr 18, 2015 12:48:13 PM SaltyBotUI$1doBettingTask run
+INFO: Waiting 40 seconds before betting again.

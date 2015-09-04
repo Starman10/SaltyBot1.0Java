@@ -1,0 +1,12 @@
+ number of:: chars: 6576, matches: 27188, bettors: 5485
+2015-04-26 05:02:38.193 strategy.js:359 - predicted odds: 1.00 : 1.76
+2015-04-26 05:02:38.193 strategy.js:426 - Honda tadakatsu has a better W score (scores: 0.06:5.73), W:L(P1)(P2)-> (5:6)(8:5), betting Honda tadakatsu,-- r: (AAAAA:AAAAAA)(AAAAAAAA:AAAAA)
+2015-04-26 05:02:40.410 salty.js:197 - records saved, matches this cycle: 9
+2015-04-26 05:02:40.867 strategy.js:32 - betting at level: 2, confidence: 93.28
+2015-04-26 05:04:45.814 salty.js:120 match results: 
+character 1: Goat_b
+character 2: Honda tadakatsu
+winner: 0
+strategy: cs	prediction: f
+tier: A		mode: m
+odds: 1:10.9	time: 75

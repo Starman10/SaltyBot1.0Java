@@ -1,0 +1,3 @@
+java -jar SaltyBot0.9.jar
+
+/html/body/div[@id='wrapper']/div[@id='bottomcontent']/form[@id='fightcard']/div[@id='balancewrapper']/span[@class='dollar greentext']/span[@id='balance']
